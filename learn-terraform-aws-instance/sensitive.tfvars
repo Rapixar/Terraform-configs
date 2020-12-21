@@ -1,0 +1,1 @@
+region="us-west-2" //use '-var-file="sensitive.tfvars"' as an argument when running apply, refresh terraform commands
